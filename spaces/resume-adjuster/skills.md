@@ -27,10 +27,11 @@
 * **PowerShell:** Advanced scripting for administration, automation, and data retrieval.
 * **Bash / Shell Scripting:** Proficiency for tasks on Linux-based systems.
 * **Python:** Foundational scripting for automation and tooling.
+* **GO:** Foundational knowledge.
 
 ## **Databases**
 
-* **Platforms:** MS SQL Server, Oracle.
+* **Platforms:** MS SQL Server, Oracle, MySQL, SQLite.
 * **Skills:** SQL Performance Tuning, Database Administration (DBA), custom tool development.
 * **Business Intelligence:** SQL Server Reporting Services (SSRS), SQL Server Integration Services (SSIS).
 
